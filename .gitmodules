@@ -1,0 +1,3 @@
+[submodule "lightweight_mapping"]
+	path = lightweight_mapping
+	url = https://github.com/ygling2008/lightweight_mapping.git
